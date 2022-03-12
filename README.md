@@ -7,3 +7,6 @@ https://rapidapi.com/googlecloud/api/google-maps-geocoding/
 
 https://www.geeksforgeeks.org/program-distance-two-points-earth/
 - Program for distance between two points on earth
+
+[fortran.txt](https://github.com/Pringith07/FORTRAN./files/8237897/fortran.txt)
+- program for taking input and making sheet of name,roll no, email, distance and address
